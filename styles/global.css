@@ -159,6 +159,12 @@
     }
   }
 
+  .card img{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
   html,
   body {
     padding: 0;

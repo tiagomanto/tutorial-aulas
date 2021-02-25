@@ -26,13 +26,13 @@ export default function Home() {
               <h4>Alterando as Margens do Documento</h4>
                 <ol>
                   <li>Clique na Guia Exibir -Procure a caixa de seleção Régua</li>
-                  <img width="100%"  src="https://s2.glbimg.com/V7F3yJvg1kcoMD56LHDHdR0aM0w=/0x0:695x370/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/Y/J/JuDVFHRqOqzPoMmkfWJQ/captura-de-tela-2-.jpg" alt=""/>
+                  <img  src="https://s2.glbimg.com/V7F3yJvg1kcoMD56LHDHdR0aM0w=/0x0:695x370/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/Y/J/JuDVFHRqOqzPoMmkfWJQ/captura-de-tela-2-.jpg" alt=""/>
               
-                  <img width="100%" src="https://s2.glbimg.com/R3n3GSgeLGEXO48zIt3t9P9BT_Y=/0x0:695x370/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/9/z/snppnWRue2cfnbYXsXTw/captura-de-tela-4-.jpg" alt=""/>
+                  <img  src="https://s2.glbimg.com/R3n3GSgeLGEXO48zIt3t9P9BT_Y=/0x0:695x370/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/9/z/snppnWRue2cfnbYXsXTw/captura-de-tela-4-.jpg" alt=""/>
             
                   <li>Clique duas vezes na parte cinza da regua</li>
                   <p>Altere as margens com desejar Superior | inferior | Esquerda | Direita</p>
-                  <img width="100%" src="https://support.content.office.net/pt-br/media/84c3af93-2f3e-4a29-bfef-2136351d04df.jpg" alt=""/>
+                  <img  src="https://support.content.office.net/pt-br/media/84c3af93-2f3e-4a29-bfef-2136351d04df.jpg" alt=""/>
                 </ol>
 
 
