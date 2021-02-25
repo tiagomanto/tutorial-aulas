@@ -69,9 +69,29 @@ export default function Home() {
       
           
 
-          <a href="https://nextjs.org/learn" className="card">
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a className="card">
+            <h3>Microsoft Excel &rarr;</h3>
+            <p>Relembrando o uso da função Se</p>
+
+            <h4>Iniciado uma formula</h4>
+                <ol>
+                  <li>Clique em qualquer celula e pressione o sinal de "="</li>
+                  <li>Comece digitando =Se(</li>
+                  <img src="https://www.aprenderexcel.com.br/imagens/post/75/680-see02.jpg" alt=""/>
+                  <li>Clique na celula "B2" pressione maior {'>'} = 6" utilize ";" para mudar de parametro
+                    Abra aspas "Aprovado";"Reprovado"
+                  </li>
+                  
+
+
+
+
+
+
+                  </ol>
+
+
+
           </a>
 
           <a
